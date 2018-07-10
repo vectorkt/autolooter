@@ -1,0 +1,6 @@
+Sword 3000 5
+Clothes 400 10
+Scrolls 1000 3
+Wand 500 7
+Gems 2000 1
+Potatoes 10 20
